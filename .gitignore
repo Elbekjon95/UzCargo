@@ -1,0 +1,28 @@
+# Operatsion tizim fayllari
+.DS_Store
+Thumbs.db
+
+# IDE va muharrirlar
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Vaqtinchalik fayllar
+*.log
+*.tmp
+*.swp
+
+# Node.js (agar kerak bo'lsa)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Boshqa
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
